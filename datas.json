@@ -1,0 +1,188 @@
+{
+  "Strategie": "Consiste à miser sur le fait qu'il n'y a pas de but dans la surface de réparation",
+  "Paris": [
+    {
+      "Date": "29/08/2023",
+      "Ligue": "Champions league",
+      "Evenement": "Panathinaikos - Braga",
+      "Cote": 1.22,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Oui",
+      "Status": "Gagné",
+      "Gain": 0.04
+    },
+    {
+      "Date": "29/08/2023",
+      "Ligue": "Champions league",
+      "Evenement": "Young Boys - Maccabi Haifa",
+      "Cote": 1.25,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Oui",
+      "Status": "Gagné",
+      "Gain": 0.05
+    },
+    {
+      "Date": "29/08/2023",
+      "Ligue": "Champions league",
+      "Evenement": "Galatasaray - Molde",
+      "Cote": 1.54,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Oui",
+      "Conseiller_par_Bard": "Non",
+      "Status": "Gagné",
+      "Gain": 0.11
+    },
+    {
+      "Date": "30/08/2023",
+      "Ligue": "Champions league",
+      "Evenement": "PSV Eindhoven - Rangers",
+      "Cote": 1.25,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "Perdu",
+      "Gain": 0
+    },
+    {
+      "Date": "30/08/2023",
+      "Ligue": "Champions league",
+      "Evenement": "Copenhague - Rakow Czestochowa",
+      "Cote": 1.25,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "Perdu",
+      "Gain": 0
+    },
+    {
+      "Date": "30/08/2023",
+      "Ligue": "Champions league",
+      "Evenement": "AEK Athènes - Royal Antwerp",
+      "Cote": 1.25,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "Perdu",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Qarabag - O. Ljubljana",
+      "Cote": 1.44,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Aris - Slovan Bratislava",
+      "Cote": 1.42,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "S. Tiraspol - Klaksvik",
+      "Cote": 1.43,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Sparta Prague - Din. Zagreb",
+      "Cote": 1.44,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Oui",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Zorya - Slavia Prague",
+      "Cote": 1.49,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Oui",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Ajax - Ludogorets",
+      "Cote": 1.65,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Cukaricki - Olympiakos",
+      "Cote": 1.46,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Lugano - Royale Union SG",
+      "Cote": 1.43,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Non",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Aberdeen - Hacken",
+      "Cote": 1.48,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Oui",
+      "Status": "En Attente",
+      "Gain": 0
+    },
+    {
+      "Date": "31/08/2023",
+      "Ligue": "Europa Ligue",
+      "Evenement": "Zrinjski - LASK",
+      "Cote": 1.4,
+      "Mise": 0.2,
+      "Evenement_deja_produit": "Non",
+      "Conseiller_par_Bard": "Oui",
+      "Status": "En Attente",
+      "Gain": 0
+    }
+  ],
+  "Mise_total": 0.6,
+  "Nombres_de_paris": 3,
+  "Taux_de_succes": "83.33%",
+  "Bankeroll_de_depart": "Indéterminé",
+  "Bankeroll_de_fin": 13.31,
+  "Nombres_de_paris_gagnes": 5,
+  "Nombres_de_paris_perdus": 1
+}

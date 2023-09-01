@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <h1>My Personnal Statistiques</h1>
+  <form id="encodeur">
+    <h3>Stratégie</h3>
+    <input type="text" placeholder="Ligue" name="league_name">
+    <input type="text" placeholder="Nom de l'évènement" name="event_name">
+    <input type="text" placeholder="Côte" name="odds">
+    <input type="text" placeholder="Mise" name="mise">
+
+    <div class="options-box">
+      <label for="event_done">Évènement déjà produit ?</label>
+        <input type="radio" id="event_done_yes" name="event_done" value="Oui">
+      <label for="event_done_yes">Oui</label>
+        <input type="radio" id="event_done_no" name="event_done" value="Non">
+      <label for="event_done_no">Non</label>
+
+      <label for="advice_by_bard">Conseil par Google bard ?</label>
+        <input type="radio" id="advice_tyes" name="advice" value="Oui">
+      <label for="advice_by_bard_yes">Oui</label>
+        <input type="radio" id="advice_no" name="advice" value="Non">
+      <label for="advice_by_bard_no">Non</label>
+    </div>
+
+    <button>Valider</button>
+  </form>
+</body>
+<script type="module" src="dist/bundle.js"></script>
+</html>
